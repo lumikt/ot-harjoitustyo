@@ -5,3 +5,4 @@ tai muut joukkueen vastuuhenkilöt voivat hallinoida joukkueen kokoonpanoa, pela
 seurantaa, harjoitus- sekä peliaikatauluja.
 
 
+[Laskarit](https://github.com/lumikt/ot-harjoitustyo/tree/main/laskarit)
