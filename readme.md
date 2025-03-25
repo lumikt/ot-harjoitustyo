@@ -5,3 +5,5 @@ tai muut joukkueen vastuuhenkilöt voivat hallinoida joukkueen kokoonpanoa, pela
 
 
 [Laskarit](https://github.com/lumikt/ot-harjoitustyo/tree/main/laskarit)
+[Alustava vaatimusmäärittely](https://github.com/lumikt/ot-harjoitustyo/blob/main/documentation/vaatimusmaarittely.md)
+[Työaikakirjanpito](https://github.com/lumikt/ot-harjoitustyo/blob/main/documentation/tyoaikakirjanpito.md)
